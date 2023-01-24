@@ -1,3 +1,3 @@
 # WeirdFace-NFT
 
-ERC712 NFT with Royalties
+ERC721 NFT with Royalties
